@@ -1,54 +1,56 @@
 {
-  "data": {
-    "bannersId": {
-      "id": 1,
-      "title": "Вклад Гибкий",
-      "slogan": "Ваши деньги - ваши правила: снимай и пополняй в любое время!",
-      "imageLink": "cashIMG",
-      "productType": "DEPOSIT",
-      "productId": 2,
-      "benefits": [
-        {
-          "title": "От 6 месяцев до 6 лет",
-          "subtitle": "срок вклада",
-          "position": 1
-        },
-        {
-          "title": "От 5 000 ₽",
-          "subtitle": "сумма вклада",
-          "position": 2
-        },
-        {
-          "title": "От 4% до 7% годовых",
-          "subtitle": "в зависимости от срока и суммы",
-          "position": 3
-        }
-      ]
-    },
-    {
-    "id": 2,
-    "title": "Кредит на неотложные нужды",
-    "slogan": "Когда нужно срочно - кредит рядом!",
-    "imageLink": "cardIMG",
-    "productType": "CREDIT",
-    "productId": 1,
-    "benefits": [
-        {
-            "title": "До 5 лет",
-            "subtitle": "срок кредита",
-            "position": 1
-        },
-        {
-            "title": "До 500 000 ₽",
-            "subtitle": "сумма кредита",
-            "position": 2
-        },
-        {
-            "title": "От 10% до 20% годовых",
-            "subtitle": "ставка",
-            "position": 3
-        }
-    ]
-}
-  }
+    "data": {
+        "bannersId": [
+            {
+                "id": 1,
+                "title": "Вклад Гибкий",
+                "slogan": "Ваши деньги - ваши правила: снимай и пополняй в любое время!",
+                "imageLink": "cashIMG",
+                "productType": "DEPOSIT",
+                "productId": 2,
+                "benefits": [
+                    {
+                        "title": "От 6 месяцев до 6 лет",
+                        "subtitle": "срок вклада",
+                        "position": 1
+                    },
+                    {
+                        "title": "От 5 000 ₽",
+                        "subtitle": "сумма вклада",
+                        "position": 2
+                    },
+                    {
+                        "title": "От 4% до 7% годовых",
+                        "subtitle": "в зависимости от срока и суммы",
+                        "position": 3
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Кредит на неотложные нужды",
+                "slogan": "Когда нужно срочно - кредит рядом!",
+                "imageLink": "cardIMG",
+                "productType": "CREDIT",
+                "productId": 1,
+                "benefits": [
+                    {
+                        "title": "До 5 лет",
+                        "subtitle": "срок кредита",
+                        "position": 1
+                    },
+                    {
+                        "title": "До 500 000 ₽",
+                        "subtitle": "сумма кредита",
+                        "position": 2
+                    },
+                    {
+                        "title": "От 10% до 20% годовых",
+                        "subtitle": "ставка",
+                        "position": 3
+                    }
+                ]
+            }
+        ]
+    }
 }
